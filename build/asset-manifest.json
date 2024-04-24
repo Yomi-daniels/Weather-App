@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a61a2ea0.css",
+    "main.js": "/static/js/main.87e56534.js",
+    "static/js/453.15c8c274.chunk.js": "/static/js/453.15c8c274.chunk.js",
+    "static/media/cloudy.jpg": "/static/media/cloudy.05434c6479a1c523437e.jpg",
+    "static/media/Satoshi-Bold.otf": "/static/media/Satoshi-Bold.b5dd7deee13e32689234.otf",
+    "static/media/Satoshi-Regular.otf": "/static/media/Satoshi-Regular.811ccb0b5af1892a71df.otf",
+    "static/media/Satoshi-Black.otf": "/static/media/Satoshi-Black.d27fb329e3c56de46506.otf",
+    "static/media/Satoshi-Light.otf": "/static/media/Satoshi-Light.66b6be60222486fa8673.otf",
+    "index.html": "/index.html",
+    "main.a61a2ea0.css.map": "/static/css/main.a61a2ea0.css.map",
+    "main.87e56534.js.map": "/static/js/main.87e56534.js.map",
+    "453.15c8c274.chunk.js.map": "/static/js/453.15c8c274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a61a2ea0.css",
+    "static/js/main.87e56534.js"
+  ]
+}
